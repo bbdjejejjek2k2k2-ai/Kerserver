@@ -14,5 +14,5 @@
         "device_id": "95c25a8af523e675",
         "key": "LKEN-qa1",
         "expirydate": "30-06-2026",
-        "Allowoffline": false
+        "Allowoffline": true
  }
